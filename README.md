@@ -12,4 +12,4 @@ Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
 ### 📌 Goals
 - Relearning Java Core concepts (OOP, etc.) 💡
 - Learn GitHub Actions or version control workflows 🔄
-- Dive into SpringBoot soon! 😁 
+- Dive into Spring Boot soon! 😁 
