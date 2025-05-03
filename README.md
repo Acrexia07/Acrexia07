@@ -5,3 +5,11 @@ I recently got access to the tools I needed, and now I’m catching up on all th
 
 Currently diving into Java, OOP, and CLI projects — one line at a time.
 Self-taught. Always curious. Forever leveling up. 🎮📈
+
+### 🔧 Tools & Tech Stack
+Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA 
+
+### 📌 Goals
+- Relearning Java Core concepts (OOP, etc.) 💡
+- Learn GitHub Actions or version control workflows 🔄
+- Dive into SpringBoot soon! 😁 
