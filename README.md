@@ -13,4 +13,4 @@ Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
 - Relearning Java Core concepts (OOP, etc.) - Done💡
 - Learning Advance Java Concepts
 - Learn GitHub Actions or version control workflows 🔄
-- Dive into Spring Boot soon! 😁 
+- Next Tech stack to learn: Spring Boot
