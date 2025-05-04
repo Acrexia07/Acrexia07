@@ -10,6 +10,7 @@ Self-taught. Always curious. Forever leveling up. 🎮📈
 Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA 
 
 ### 📌 Goals
-- Relearning Java Core concepts (OOP, etc.) 💡
+- Relearning Java Core concepts (OOP, etc.) - Done💡
+- Learning Advance Java Concepts
 - Learn GitHub Actions or version control workflows 🔄
 - Dive into Spring Boot soon! 😁 
