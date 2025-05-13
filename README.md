@@ -10,9 +10,9 @@ Self-taught. Always curious. Forever leveling up. 🎮📈
 Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
 
 ### 📖 Currently Exploring 🔎
-Concepts: Functional Programming
-Build Tools: Maven (up next)
-Frameworks: Spring Boot (planned)
+ - Concepts: Functional Programming
+ - Build Tools: Maven (up next)
+ - Frameworks: Spring Boot (planned)
 
 
 ### 📌 Goals
