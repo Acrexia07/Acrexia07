@@ -11,6 +11,6 @@ Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
 
 ### 📌 Goals
 - Relearning Java Core concepts (OOP, etc.) - Done💡
-- Learning Advance Java Concepts
+- Learning Functional Programming concepts. (Next Build Tools - starting with Maven)
 - Learn GitHub Actions or version control workflows 🔄
 - Next Tech stack to learn: Spring Boot
