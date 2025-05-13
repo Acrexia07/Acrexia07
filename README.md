@@ -6,11 +6,18 @@ I recently got access to the tools I needed, and now I’m catching up on all th
 Currently diving into Java, OOP, and CLI projects — one line at a time.
 Self-taught. Always curious. Forever leveling up. 🎮📈
 
-### 🔧 Tools & Tech Stack
-Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA 
+### 📚 Language & Tools 🛠️
+Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
+
+### 📖 Currently Exploring 🔎
+Concepts: Functional Programming
+Build Tools: Maven (up next)
+Frameworks: Spring Boot (planned)
+
 
 ### 📌 Goals
-- Relearning Java Core concepts (OOP, etc.) - Done💡
-- Learning Functional Programming concepts. (Next Build Tools - starting with Maven)
-- Learn GitHub Actions or version control workflows 🔄
-- Next Tech stack to learn: Spring Boot
+  - ✅ Relearn Java Core concepts (OOP, etc.)
+  - 📘 Learn functional programming concepts
+  - ⚙️ Start working with build tools (starting with Maven)
+  - 🔄 Understand GitHub Actions and version control workflows
+  - 🌱 Begin learning Spring Boot as my next framework
