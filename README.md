@@ -17,7 +17,7 @@ Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
 
 ### 📌 Goals
   - ✅ Relearn Java Core concepts (OOP, etc.) - **COMPLETED**
-  - 📘 Learn functional programming concepts - **Ongoing**
+  - 📘 Learn functional programming concepts - **ONGOING**
   - ⚙️ Start working with build tools (starting with Maven)
   - 🔄 Understand GitHub Actions and version control workflows
   - 🌱 Begin learning Spring Boot as my next framework
