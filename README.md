@@ -1,23 +1,25 @@
 ## Hi there 👋
 
-💻 New to GitHub, but not new to dreaming about code.
-I recently got access to the tools I needed, and now I’m catching up on all the programming I’ve been dying to learn — self-taught, one step at a time.
+💻 Junior Java Developer with 2+ years of professional experience in Java development, OOP, and application maintenance. 
+   Currently diving deep into Java core concepts, CLI applications, and automation through hands-on projects.
 
-Currently diving into Java, OOP, and CLI projects — one line at a time.
-Self-taught. Always curious. Forever leveling up. 🎮📈
+📚 Self-taught and constantly leveling up. 
+   Passionate about clean code, problem-solving, and continuous learning in Java and software engineering.
 
-### 📚 Language & Tools 🛠️
-Java • CLI • Object-Oriented Programming (OOP) • Git • IntelliJ IDEA
+**🔧 Technologies & Tools**
+Primary Skills:
+☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
-### 📖 Currently Exploring 🔎
- - Concepts: Functional Programming
- - Build Tools: Maven (up next)
- - Frameworks: Spring Boot (planned)
+**Tools:**
+🛠️ Maven (coming soon)
+🧪 JUnit • Selenium (light exposure)
+
+**Currently Learning:**
+🚀 Deepening understanding of Java Core concepts and functional programming
 
 
-### 📌 Goals
-  - ✅ Relearn Java Core concepts (OOP, etc.) - **COMPLETED**
-  - 📘 Learn functional programming concepts - **ONGOING**
-  - ⚙️ Start working with build tools (starting with Maven)
-  - 🔄 Understand GitHub Actions and version control workflows
-  - 🌱 Begin learning Spring Boot as my next framework
+**🎯 What I’m Focused On**
+✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.)
+⚙️ Exploring build tools (beginning with Maven)
+🔄 Diving into unit testing with JUnit
+🌱 Starting with Spring Boot for future back-end development****
