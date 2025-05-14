@@ -19,7 +19,6 @@ Primary Skills:
 
 
 **🎯 What I’m Focused On**
-✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.)
-⚙️ Exploring build tools (beginning with Maven)
-🔄 Diving into unit testing with JUnit
-🌱 Starting with Spring Boot for future back-end development****
+ - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.)
+ - ⚙️ Exploring build tools (beginning with Maven)
+ - 🌱 Starting with Spring Boot for future back-end development****
