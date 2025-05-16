@@ -13,8 +13,8 @@
  - 🍃 Spring Boot (soon)
 
 **Tools:**
-🛠️ Maven - Ongoing
-🧪 JUnit • Selenium (light exposure)
+ - 🛠️ Maven - Ongoing
+ - 🧪 JUnit • Selenium (light exposure)
 
 
 **Currently Learning:**
