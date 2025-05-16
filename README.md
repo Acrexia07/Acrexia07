@@ -7,7 +7,7 @@
    Passionate about clean code, problem-solving, and continuous learning in Java and software engineering.
 
 **🔧 Technologies & Tools**
-☕ Java • OOP • CLI • Git • IntelliJ IDEA
+ - ☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
 **🪟 Framework**
  - 🍃 Spring Boot (soon)
@@ -16,12 +16,10 @@
  - 🛠️ Maven - Ongoing
  - 🧪 JUnit • Selenium (light exposure)
 
-
 **Currently Learning:**
-🚀 Maven Overview
-
+ - 🚀 Maven Overview
 
 **🎯 What I’m Focused On**
- - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.)
- - ⚙️ Exploring build tools (beginning with Maven)
+ - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) - Done
+ - ⚙️ Exploring build tools (beginning with Maven) - Ongoing
  - 🌱 Starting with Spring Boot for future back-end development****
