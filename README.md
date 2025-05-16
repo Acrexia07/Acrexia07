@@ -7,15 +7,18 @@
    Passionate about clean code, problem-solving, and continuous learning in Java and software engineering.
 
 **🔧 Technologies & Tools**
-Primary Skills:
 ☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
+**🪟 Framework**
+ - 🍃 Spring Boot (soon)
+
 **Tools:**
-🛠️ Maven (coming soon)
+🛠️ Maven - Ongoing
 🧪 JUnit • Selenium (light exposure)
 
+
 **Currently Learning:**
-🚀 Deepening understanding of Java Core concepts and functional programming
+🚀 Maven Overview
 
 
 **🎯 What I’m Focused On**
