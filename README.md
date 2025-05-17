@@ -18,6 +18,7 @@
 
 **Currently Learning:**
  - 🚀 Maven Overview - **DONE**
+ - 🔨 JUnit; Deep diving the concept - **ONGOING**
  - ⚒️ Maven Practice Project - **ONGOING**
  - 📖 Multi-Module Project - **UPCOMING**
 
