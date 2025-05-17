@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Junior Java Developer with 2+ years of professional experience in Java development, OOP, and application maintenance. 
+💻 Java Developer with 2+ years of professional experience in Java development, OOP, and application maintenance. 
    Currently diving deep into Java core concepts, CLI applications, and automation through hands-on projects.
 
 📚 Self-taught and constantly leveling up. 
@@ -17,7 +17,9 @@
  - 🧪 JUnit • Selenium (light exposure)
 
 **Currently Learning:**
- - 🚀 Maven Overview
+ - 🚀 Maven Overview - **DONE**
+ - ⚒️ Maven Practice Project - **ONGOING**
+ - 📖 Multi-Module Project - **UPCOMING**
 
 **🎯 What I’m Focused On**
  - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) - Done
