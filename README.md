@@ -18,6 +18,7 @@ _Currently learning_
  - 🚀 Maven Overview - _DONE_
  - ⚒️ Maven Practice Project - _IN-PROGRESS_
  - 📖 Multi-Module Project - _UPCOMING_
+   
 **_Upcoming: Spring framework suite_**
  - Spring Boot
  - Spring MVC
