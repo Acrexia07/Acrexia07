@@ -9,19 +9,23 @@
 **🔧 Technologies & Tools**
  - ☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
-**🪟 Framework**
- - 🍃 Spring Boot (soon)
-
 **Tools:**
  - 🛠️ Maven - Ongoing
  - 🧪 JUnit • Selenium (light exposure)
 
-**Currently Learning:**
+**Learning Roadmap**
+_Currently learning_
  - 🚀 Maven Overview - **DONE**
- - ⚒️ Maven Practice Project - **ONGOING**
+ - ⚒️ Maven Practice Project - **In-PROGRESS**
  - 📖 Multi-Module Project - **UPCOMING**
+
+_Upcoming: Spring framework suite_
+ - Spring Boot
+ - Spring MVC
+ - Spring Data
+ - Spring Security
 
 **🎯 What I’m Focused On**
  - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) - Done
  - ⚙️ Exploring build tools (beginning with Maven) - Ongoing
- - 🌱 Starting with Spring Boot for future back-end development****
+ - 🌱 Exploring Backend Development - starting with Spring boot framework
