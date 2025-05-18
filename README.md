@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Java Developer with 2+ years of professional experience in Java development, OOP, and application maintenance. 
+💻 2+ years of professional experience in Java development, OOP, and application maintenance & versioning. 
    Currently diving deep into Java core concepts, CLI applications, and automation through hands-on projects.
 
 📚 Self-taught and constantly leveling up. 
