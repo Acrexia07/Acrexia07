@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 2+ years of professional experience in Java development, OOP, and application maintenance & versioning. 
+💻 Java developer with 2+ years of professional experience in  OOP, and application maintenance & versioning. 
    Currently diving deep into Java core concepts, CLI applications, and automation through hands-on projects.
 
 📚 Self-taught and constantly leveling up. 
@@ -10,22 +10,21 @@
  - ☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
 **Tools:**
- - 🛠️ Maven - Ongoing
+ - 🛠️ Maven - _Ongoing_
  - 🧪 JUnit • Selenium (light exposure)
 
 **Learning Roadmap**
 _Currently learning_
- - 🚀 Maven Overview - **DONE**
- - ⚒️ Maven Practice Project - **In-PROGRESS**
- - 📖 Multi-Module Project - **UPCOMING**
-
+ - 🚀 Maven Overview - _DONE_
+ - ⚒️ Maven Practice Project - _IN-PROGRESS_
+ - 📖 Multi-Module Project - _UPCOMING_
 _Upcoming: Spring framework suite_
  - Spring Boot
  - Spring MVC
  - Spring Data
  - Spring Security
 
-**🎯 What I’m Focused On**
- - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) - Done
- - ⚙️ Exploring build tools (beginning with Maven) - Ongoing
- - 🌱 Exploring Backend Development - starting with Spring boot framework
+**🎯 Current Focus**
+ - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) – Done
+ - ⚙️ Exploring build tools (starting with Maven) – Ongoing
+ - 🌱 Starting back-end development with the Spring Boot framework
