@@ -17,17 +17,17 @@
 
 
 **Framework:**
-- 🍃 Spring & Spring boot - _ONGOING_
+- 🍃 Spring & Spring boot - **_ONGOING_**
 
 **Learning Roadmap**
 _Currently learning_
- - 🚀 Maven Overview - _DONE_
- - ⚒️ Maven Practice Project familiarization - _DONE_
- - 📖 Multi-Module Project familiarization- _DONE_
- - 🏫 Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS (via Udemy) - _ONGOING_
+ - 🚀 Maven Overview - **_DONE_**
+ - ⚒️ Maven Practice Project familiarization - **_DONE_**
+ - 📖 Multi-Module Project familiarization- **_DONE_**
+ - 🏫 Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS (via Udemy) - **_ONGOING_**
    
 
 **🎯 Current Focus**
- - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) – Done
- - ⚙️ Exploring build tools (starting with Maven) – Ongoing
- - 🌱 Starting back-end development with the Spring Boot framework
+ - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) – **Done**
+ - ⚙️ Exploring build tools (focusing with Maven) – **Done**
+ - 🌱 Starting back-end development with the Spring Boot framework - **ONGOING**
