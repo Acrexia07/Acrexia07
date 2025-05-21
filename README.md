@@ -10,8 +10,11 @@
  - ☕ Java • OOP • CLI • Git • IntelliJ IDEA
 
 **Tools:**
- - 🛠️ Maven - _Ongoing_
+ - 🛠️ Maven - _FAMILIARIZED_
  - 🧪 JUnit • Selenium (light exposure)
+
+**Framework:**
+- 🍃 Spring & Spring boot - _ONGOING_
 
 **Learning Roadmap**
 _Currently learning_
