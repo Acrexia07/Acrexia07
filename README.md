@@ -16,9 +16,9 @@
 **Learning Roadmap**
 _Currently learning_
  - 🚀 Maven Overview - _DONE_
- - ⚒️ Maven Practice Project - _IN-PROGRESS_
- - 🧪 JUnit - _IN-PROGRESS_
- - 📖 Multi-Module Project - _UPCOMING_
+ - ⚒️ Maven Practice Project familiarization - _DONE_
+ - 📖 Multi-Module Project familiarization- _DONE_
+ - 🍃 Spring and Spring boot (via Udemy) - _ONGOING_
    
 **_Upcoming: Spring framework suite_**
  - Spring Boot
