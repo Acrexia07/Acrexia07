@@ -8,7 +8,7 @@
 
 
 **🔧 Technologies & Tools**
- - ☕ Java • OOP • CLI • Git • IntelliJ IDEA
+ - ☕ Java • OOP • CLI • Git • IntelliJ IDEA • Eclipse IDE
 
 
 **Tools:**
