@@ -12,12 +12,14 @@
 
 
 **Tools:**
- - 🛠️ Maven - _FAMILIARIZED_
+ - 🛠️ Maven
  - 🧪 JUnit • Selenium (light exposure)
 
 
 **Framework:**
 - 🍃 Spring & Spring boot - **_ONGOING_**
+
+
 
 **Learning Roadmap**
 _Currently learning_
