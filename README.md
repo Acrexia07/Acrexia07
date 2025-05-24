@@ -10,7 +10,6 @@
 **🔧 Technologies & Tools**
  - ☕ Java • OOP • CLI • Git • IntelliJ IDEA • Eclipse IDE
 
-
 **Tools:**
  - 🛠️ Maven
  - 🧪 JUnit • Selenium (light exposure)
