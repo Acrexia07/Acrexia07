@@ -16,7 +16,7 @@
 
 
 **Framework:**
-- 🍃 Spring & Spring boot - **_ONGOING_**
+- 🍃 Spring Core Fundamentals - _DONE_
 
 
 
