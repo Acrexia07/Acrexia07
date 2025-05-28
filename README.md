@@ -31,4 +31,4 @@ _Currently learning_
 **🎯 Current Focus**
  - ✅ Mastering Java fundamentals (OOP principles, collections, streams, etc.) – **Done**
  - ⚙️ Exploring build tools (focusing with Maven) – **Done**
- - 🌱 Starting back-end development with the Spring Boot framework - **Ongoing**
+ - 🌱 Explore Spring Ecosystems - **Ongoing**
