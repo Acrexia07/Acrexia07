@@ -8,3 +8,4 @@ I'm a Java developer with over 2 years of professional experience, specializing 
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
