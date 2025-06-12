@@ -10,9 +10,10 @@ Currently, I'm diving deeper into advanced backend development concepts, sharpen
 
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
 <img align="left" alt="Spring" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
