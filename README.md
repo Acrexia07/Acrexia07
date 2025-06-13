@@ -1,4 +1,4 @@
-# 👋 Marlon E Barnuevo
+# 👋 Marlon Barnuevo
 
 I'm a Java developer with over 2 years of professional experience, specializing in object-oriented programming (OOP), application maintenance, and version control. 
 
