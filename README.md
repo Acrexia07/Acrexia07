@@ -10,6 +10,7 @@ Currently, I'm diving deeper into advanced backend development concepts, sharpen
 
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -19,4 +20,4 @@ Currently, I'm diving deeper into advanced backend development concepts, sharpen
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
