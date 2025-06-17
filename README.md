@@ -6,6 +6,8 @@ I've built a solid foundation in core Java, Spring, and Spring Boot, and continu
 
 Currently, I'm diving deeper into advanced backend development concepts, exploring full-stack to understand the REST API workflow and diving into it, sharpening my skills and exploring best practices to build robust, scalable applications.
 
+"I enjoy building end-to-end solutions and am passionate about clean code, best practices, and staying current with modern development trends."
+
 ### 🧰 Languages & Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
