@@ -4,7 +4,7 @@ I'm a Java developer with over 2 years of professional experience, specializing 
 
 I've built a solid foundation in core Java, Spring, and Spring Boot, and continue to deepen my understanding through hands-on projects involving CLI applications and automation. 
 
-Currently, I'm diving deeper into advanced backend development concepts, exploring full-stack to understand the REST API workflow around in it, sharpening my skills and exploring best practices to build robust, scalable applications.
+Currently, I'm diving deeper into advanced backend development concepts, exploring full-stack to understand the REST API workflow and diving into it, sharpening my skills and exploring best practices to build robust, scalable applications.
 
 ### 🧰 Languages & Tools
 
