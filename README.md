@@ -1,6 +1,6 @@
 # Marlon Barnuevo
 
-I'm a Java developer with over 2 years of professional experience, specializing in object-oriented programming (OOP), application maintenance, and version control. 
+I'm a Java developer with over 2 years of enterprise experience, specializing in object-oriented programming (OOP), application maintenance, and version control. 
 
 I've built a solid foundation in core Java, Spring, and Spring Boot, and continue to deepen my understanding through hands-on projects involving CLI applications and automation. 
 
