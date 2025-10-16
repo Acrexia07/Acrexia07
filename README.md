@@ -2,9 +2,7 @@
 
 I'm a Java developer with over 2 years of enterprise experience, specializing in object-oriented programming (OOP), application maintenance, and version control. 
 
-I've built a solid foundation in core Java, Spring, and Spring Boot, and continue to deepen my understanding through hands-on projects involving CLI applications and automation. 
-
-Currently, I'm diving deeper into advanced backend development concepts using Spring Boot, exploring full-stack to understand the REST API workflow and diving into it, sharpening my skills and exploring best practices to build robust, scalable applications.
+I've built a solid foundation in core Java, Spring, and Spring Boot, and currently deepen my understanding through hands-on projects involving REST APIs and ETL components. 
 
 "I enjoy building end-to-end solutions and am passionate about clean code, best practices, and staying current with modern development trends."
 
