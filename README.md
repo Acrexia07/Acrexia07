@@ -1,10 +1,8 @@
 # Marlon Barnuevo
 
-I'm a Java developer with over 2 years of enterprise experience, specializing in object-oriented programming (OOP), application maintenance, and version control. 
-
 I've built a solid foundation in core Java, Spring, and Spring Boot, and currently deepen my understanding through hands-on projects involving REST APIs and ETL components. 
 
-"I enjoy building end-to-end solutions and am passionate about clean code, best practices, and staying current with modern development trends."
+"I enjoy building end-to-end solutions and I am passionate about clean code, and best practices."
 
 ### 🧰 Languages & Tools
 
