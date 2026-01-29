@@ -17,4 +17,9 @@ I've built a solid foundation in core Java, Spring, and Spring Boot, and current
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
+          
 
