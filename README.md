@@ -1,6 +1,6 @@
 # Marlon Barnuevo
 
-A developer that solves business solutions by building full-stack systems mainly using Spring Boot and Angular.
+A person that loves and curious on building stuffs. Currently enjoy coding and building systems with Spring Boot and Angular.
 
 ### 🧰 Languages & Tools
 
