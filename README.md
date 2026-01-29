@@ -1,8 +1,6 @@
 # Marlon Barnuevo
 
-I've built a solid foundation in core Java, Spring, and Spring Boot, and currently deepen my understanding through hands-on projects involving REST APIs and ETL components. 
-
-"I enjoy building end-to-end solutions and I am passionate about clean code, and best practices."
+A developer that solves business solutions by building full-stack systems mainly using Spring Boot and Angular.
 
 ### 🧰 Languages & Tools
 
